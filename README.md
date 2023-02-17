@@ -58,10 +58,10 @@ We will build a random forest model to predict whether a given customer defaults
 * - **PAY_AMT6**: Amount of previous payment in April, 2005 (NT dollar)
 * - **default.payment.next.month**: Default payment (1=yes, 0=no)
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> :book: Depoyment on Heroku</h2>
+<h2> :book: Depoyment on AWS</h2>
 
-[![](https://i.imgur.com/4HjhfDQ.png)](https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/)
-https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/
+[![](https://i.imgur.com/4HjhfDQ.png)](https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com/)
+https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com/
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-jagtap-b93a771a/)
 
