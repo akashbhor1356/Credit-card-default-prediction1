@@ -1,7 +1,8 @@
 Flask
-scikit_learn
-pandas
-numpy
+gunicorn
 matplotlib
 seaborn
-gunicorn
+pandas
+numpy
+scikit_learn
+Flask_pymongo
