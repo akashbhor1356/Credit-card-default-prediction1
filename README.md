@@ -1,10 +1,6 @@
-<p align="center"> 
-  <img src="images/2.png" alt="images/2.png" width="150px" height="100px">
-</p>
+
 <h1 align="center"> Credit Card Defaulter prediction </h1>
 <p align="center"> 
-<img src="images/all.png" alt="images/all.png" height="382px">
-</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
