@@ -1,6 +1,10 @@
-
+<p align="center"> 
+  <img src="images/2.png" alt="images/2.png" width="150px" height="100px">
+</p>
 <h1 align="center"> Credit Card Defaulter prediction </h1>
 <p align="center"> 
+<img src="images/all.png" alt="images/all.png" height="382px">
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -54,12 +58,12 @@ We will build a random forest model to predict whether a given customer defaults
 * - **PAY_AMT6**: Amount of previous payment in April, 2005 (NT dollar)
 * - **default.payment.next.month**: Default payment (1=yes, 0=no)
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h2> :book: Deployment on AWS </h2>
+<h2> :book: Depoyment on Heroku</h2>
 
-[![](https://i.imgur.com/4HjhfDQ.png)](ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/)
-ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/
+[![](https://i.imgur.com/4HjhfDQ.png)](https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/)
+https://ec2-35-79-223-143.ap-northeast-1.compute.amazonaws.com:8080/
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhor-b62503149/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-jagtap-b93a771a/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
